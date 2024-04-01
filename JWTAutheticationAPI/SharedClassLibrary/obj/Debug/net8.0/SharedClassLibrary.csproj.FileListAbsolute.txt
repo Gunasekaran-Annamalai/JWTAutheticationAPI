@@ -1,0 +1,11 @@
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.deps.json
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.dll
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\bin\Debug\net8.0\SharedClassLibrary.pdb
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfoInputs.cache
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.AssemblyInfo.cs
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.csproj.CoreCompileInputs.cache
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.dll
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\refint\SharedClassLibrary.dll
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\SharedClassLibrary.pdb
+D:\.NET\JWT Authentication API\JWTAutheticationAPI\SharedClassLibrary\obj\Debug\net8.0\ref\SharedClassLibrary.dll
